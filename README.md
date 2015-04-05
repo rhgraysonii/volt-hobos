@@ -1,6 +1,7 @@
-# Volt::Hobos
+# Volt-Hobos
 
-TODO: Write a gem description
+Trivially generate hobo names in your volt controllers.
+Simply call `@hobo_generator.hobo` and you will be given a hobo name string!
 
 ## Installation
 
@@ -18,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`@hobo_generator.hobo` in any controller.
 
 ## Contributing
 
