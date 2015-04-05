@@ -20,6 +20,7 @@ Or install it yourself as:
 ## Usage
 
 `@hobo_generator.hobo` in any controller.
+Or, you are afforded a `$hobos` global variable you may also call `.hobo` on for a random hobo name.
 
 ## Contributing
 
