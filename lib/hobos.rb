@@ -1,4 +1,4 @@
+$hobos = Hobos::Api.new
 1000.times do |t|
-  name = `hobos`
-  $page.store._hobos << { name: name }
+  $page.store._hobos << { name: $hobos.hobo }
 end
